@@ -1,0 +1,26 @@
+[
+  {
+    "id": "336fc50efce2737c7a27d76065fd91d7222f8205",
+    "name": "Delubac",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "foundations": "source",
+      "typography": "enabled",
+      "typography/mobile": "enabled",
+      "typography/desktop": "enabled"
+    },
+    "group": "Arche"
+  },
+  {
+    "id": "8057c968119cfe9584b87d55316986abaa9dc0ff",
+    "name": "Desktop",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "foundations": "source",
+      "typography": "enabled",
+      "typography/mobile": "enabled",
+      "typography/desktop": "enabled"
+    },
+    "group": "Responsive"
+  }
+]
