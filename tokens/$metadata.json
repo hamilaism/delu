@@ -1,7 +1,6 @@
 {
   "tokenSetOrder": [
     "foundations",
-    "typography",
     "typography/mobile",
     "typography/desktop"
   ]

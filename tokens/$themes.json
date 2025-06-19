@@ -5,7 +5,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundations": "source",
-      "typography": "enabled",
       "typography/mobile": "enabled",
       "typography/desktop": "enabled"
     },
@@ -17,7 +16,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundations": "source",
-      "typography": "enabled",
       "typography/mobile": "enabled",
       "typography/desktop": "enabled"
     },
