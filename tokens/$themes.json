@@ -4,9 +4,8 @@
     "name": "Delubac",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "foundations": "source",
-      "typography/mobile": "enabled",
-      "typography/desktop": "enabled"
+      "foundations": "enabled",
+      "typography/mobile": "source"
     },
     "group": "Arche"
   },
@@ -16,9 +15,38 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundations": "source",
-      "typography/mobile": "enabled",
       "typography/desktop": "enabled"
     },
     "group": "Responsive"
+  },
+  {
+    "id": "983df2887e8b40a2df1845c14efd2b801c790def",
+    "name": "mobile",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "foundations": "source",
+      "typography/mobile": "enabled"
+    },
+    "group": "Responsive"
+  },
+  {
+    "id": "86e6a0cbcccd8a22c7df2b1917d2fe5fc99f263b",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "foundations": "source",
+      "component/light": "enabled"
+    },
+    "group": "ColorMode"
+  },
+  {
+    "id": "0912be0d12c757dd449c2be4c0914a8b94a2a6fe",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "foundations": "source",
+      "component/dark": "enabled"
+    },
+    "group": "ColorMode"
   }
 ]

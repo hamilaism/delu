@@ -1,0 +1,10 @@
+{
+  "color": {
+    "button": {
+      "background": {
+        "$type": "color",
+        "$value": "{colors.raspberry.300}"
+      }
+    }
+  }
+}
